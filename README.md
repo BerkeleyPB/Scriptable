@@ -4,7 +4,7 @@ Scripts and widgets for the iOS Scriptable App
 
 
 
-## TerminalWidget
+## iTerm Widget
 
 Inspired by [evandcoleman](https://github.com/evandcoleman/scriptable), but re-written for my own data.
 
@@ -17,6 +17,7 @@ Currently, this widget shows information about:
 - Year progress
 - Weather
 
+![iTerm Widget](iTerm Widget.PNG)
 
 
 ### How to use
