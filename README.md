@@ -17,7 +17,7 @@ Currently, this widget shows information about:
 - Year progress
 - Weather
 
-![iTerm Widget](iTerm Widget.PNG)
+![iTerm Widget](https://github.com/BerkeleyPB/Scriptable/blob/main/iTerm%20Widget.PNG)
 
 
 ### How to use
