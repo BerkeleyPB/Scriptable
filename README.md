@@ -1,6 +1,6 @@
 # Scriptable
 
-Scripts and widgets for the iOS Scriptable App
+Scripts and widgets for the iOS Scriptable App. 
 
 
 
@@ -19,6 +19,7 @@ Currently, this widget shows information about:
 - Weather
 
 ![iTerm Widget](https://github.com/BerkeleyPB/Scriptable/blob/main/images/iTerm%20Widget.PNG)
+
 
 
 ### How to use
