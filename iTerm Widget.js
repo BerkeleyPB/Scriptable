@@ -204,7 +204,7 @@ async function fetchData() {
 function renderBattery() {
   const batteryLevel = Device.batteryLevel()
   const juice = "⚡︎".repeat(Math.floor(batteryLevel * 10))
-  const used = "•".repeat(Math.floor((1-batteryLevel) * 10 + 1))
+  const used = "•".repeat(Math.floor((1-batteryLevel) * 10 + (batteryLevel == 1 ? 0 : 1)))
   if (Device.isCharging()) {
     return `⚡️ | [${juice}${used}] ${Math.round(batteryLevel * 100)}%`
   }
