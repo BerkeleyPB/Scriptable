@@ -10,6 +10,7 @@ Inspired by [evandcoleman](https://github.com/evandcoleman/scriptable), but re-w
 
 Currently, this widget shows information about: 
 
+- Last update time
 - Device battery level
 - Location
 - Date
